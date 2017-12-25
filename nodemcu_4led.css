@@ -1,0 +1,33 @@
+body{
+	background-image: url("https://static.pexels.com/photos/172292/pexels-photo-172292.jpeg");
+	height: 700px;
+
+}
+#logo{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+}
+#main{
+	
+	border-radius: 20px;
+	position: relative;
+	background-color: aliceblue ;
+	text-align: center;
+	border: 3px solid black;
+	margin: 0 auto;
+	width: 300px;
+	height: auto;
+	
+}
+#footer{
+	text-align: center;
+	color: white;
+}
+
+#img{
+	margin: 0 auto;
+	text-align: center;
+}
+h3{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
